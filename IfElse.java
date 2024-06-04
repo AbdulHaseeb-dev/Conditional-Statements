@@ -34,5 +34,7 @@ public class IfElse {
         } else {
             System.out.println("Odd");
         }
+
+        sc.close();
     }
 }
